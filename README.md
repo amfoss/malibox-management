@@ -9,6 +9,7 @@ You can start contributing to this project by:
   - Go into the project folder ```cd Elites_Project/```
   - You can activate the source by doing ```source project/bin/activate```
   - Then enter into the mailroom using ```cd MailRoom/```
+  - This uses the language pip3-python django
   - Migrate the data into the database by using ```python manage.py migrate```
   - You can run the project by using ```python manage.py runserver```
  - You can enter into http://127.0.0.1:8000/Mailroom/login/ to see the login page.
